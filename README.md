@@ -24,7 +24,7 @@
     + Error-Handling
       - Debugger
       - Try/Catch
-  * 3. Single-Page-Application
+  * Single-Page-Application
     + DOM
       - Window
       - Document
