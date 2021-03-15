@@ -27,7 +27,7 @@ JSDoc könnt ihr [hier](https://jsdoc.app/) herunterladen.
 
 ```js
     /**
-     * @method .ToLowerCase()
+     * @method .ToLowerCase();
      * @description Mit dieser Methode können wir Strings zu kleinbuchstaben umwandeln.
      * @returns { string }
      */
